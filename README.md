@@ -5,7 +5,7 @@
 
 - 💙 I’ve been working on Flutter for 1 year
 - 👩🏻‍💻 I’m studying computer engineering at Erciyes University (3/4)
-- 🥅 2021 Goals: Contribute more to Open Source projects
+
 
 ### Connect with me:
 
