@@ -1,10 +1,10 @@
 ### Hi there, I'm Batuhan 👋
 
 
-## I'm Mobile Developer (22y) from Ankara,Turkey 🇹🇷
+## I'm Mobile Developer (23y) from Ankara,Turkey 🇹🇷
 
 - 💙 I’ve been working on Flutter for 2 year
-- 👩🏻‍💻 I’m studying computer engineering at Erciyes University (3/4)
+- 👩🏻‍💻 I’m studying computer engineering at Erciyes University (4/4)
 
 
 ### Connect with me:
