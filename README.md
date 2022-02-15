@@ -16,3 +16,4 @@
 
 [instagram]: https://www.instagram.com/ttarumar
 [linkedin]: https://www.linkedin.com/in/ttarumar
+![](https://komarev.com/ghpvc/?username=TTarumar)
