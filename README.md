@@ -1,6 +1,4 @@
 ![Adeline Palmerston](https://user-images.githubusercontent.com/47665779/179788019-1c4666f1-b8cc-4762-9893-871c25c244ae.png)
-### Hi there, I'm Batuhan 👋
-## I'm Mobile Developer (23y) from Ankara,Turkey 🇹🇷
 
 - 💙 I’ve been working on Flutter for 2 year
 - 👩🏻‍💻 I’m studying computer engineering at Erciyes University (4/4)
