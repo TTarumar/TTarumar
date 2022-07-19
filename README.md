@@ -1,6 +1,6 @@
 
 ### Hi there, I'm Batuhan 👋
-<img src=”https://user-images.githubusercontent.com/47665779/179787617-b97862e7-2ade-4cd2-9855-72fcbeb8de24.png"alt=”my banner”>
+![Adeline Palmerston]<img src=”https://user-images.githubusercontent.com/47665779/179787617-b97862e7-2ade-4cd2-9855-72fcbeb8de24.png"alt=”my banner”>
 ## I'm Mobile Developer (23y) from Ankara,Turkey 🇹🇷
 
 - 💙 I’ve been working on Flutter for 2 year
