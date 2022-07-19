@@ -11,4 +11,4 @@
 [linkedin]: https://www.linkedin.com/in/ttarumar
 ![](https://komarev.com/ghpvc/?username=TTarumar)
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=TTarumar&title_color="#1e5a66"&text_color=059995&show_icons=true&include_all_commits=true)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=TTarumar&title_color=1e5a66&text_color=059995&show_icons=true&include_all_commits=true)
