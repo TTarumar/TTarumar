@@ -8,4 +8,4 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TTarumar)](https://github.com/anuraghazra/github-readme-stats)
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=TTarumar)](https://github.com/ryo-ma/github-profile-trophy)
+![GitHub metrics](https://metrics.lecoq.io/TTarumar)  
