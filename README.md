@@ -1,6 +1,6 @@
-<img src=”https://user-images.githubusercontent.com/47665779/179784550-377acbe3-d575-4bfc-80fe-35a4a713a847.png"alt=”my banner”>
 
 ### Hi there, I'm Batuhan 👋
+<img src=”https://user-images.githubusercontent.com/47665779/179784550-377acbe3-d575-4bfc-80fe-35a4a713a847.png"alt=”my banner”>
 
 
 ## I'm Mobile Developer (23y) from Ankara,Turkey 🇹🇷
