@@ -18,4 +18,4 @@
 [linkedin]: https://www.linkedin.com/in/ttarumar
 ![](https://komarev.com/ghpvc/?username=TTarumar)
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=TTarumar)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&show_icons=true&theme=radical&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)
