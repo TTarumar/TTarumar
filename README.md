@@ -11,6 +11,7 @@
 
 
 <a href="https://github.com/TTarumar#gh-dark-mode-only">
+   <img src="https://github-readme-stats.vercel.app/api?username=TTarumar&title_color=1e5a66&text_color=059995&icon_color=1e5a66&bg_color=161B22&title_color=059995&show_icons=true&include_all_commits=true&count_private=true&hide_rank=false#gh-light-mode-only" alt="My GitHub Stats" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TTarumar&title_color=059995&text_color=059995&hide_border=true&bg_color=161B22&layout=compact&card_width=280#gh-dark-mode-only (https://github.com/anuraghazra/github-readme-stats)" alt="My GitHub Stats" />
 </a>
 
