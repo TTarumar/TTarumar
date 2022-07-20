@@ -6,14 +6,15 @@
 
 <a href="https://github.com/TTarumar#gh-light-mode-only">
   <img src="https://github-readme-stats.vercel.app/api?username=TTarumar&title_color=1e5a66&text_color=059995&icon_color=1e5a66&bg_color=F5F5F5&show_icons=true&include_all_commits=true&count_private=true&hide_rank=false#gh-light-mode-only" alt="My GitHub Stats" />
-</a>
-
-<a href="https://github.com/TTarumar#gh-dark-mode-only">
   <img src="https://github-readme-stats.vercel.app/api?username=TTarumar&title_color=1e5a66&text_color=059995&icon_color=1e5a66&bg_color=F5F5F5&show_icons=true&include_all_commits=true&count_private=true&hide_rank=false#gh-light-mode-only" alt="My GitHub Stats" />
 </a>
 
+<a href="https://github.com/TTarumar#gh-dark-mode-only">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TTarumar&layout=compact&card_width=280#gh-light-mode-only (https://github.com/anuraghazra/github-readme-stats)" alt="My GitHub Stats" />
+</a>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=TTarumar&title_color=1e5a66&text_color=059995&icon_color=1e5a66&bg_color=F5F5F5&show_icons=true&include_all_commits=true&count_private=true&hide_rank=false)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TTarumar&layout=compact&card_width=280)](https://github.com/anuraghazra/github-readme-stats)
+
+
 
 #161B22
 
